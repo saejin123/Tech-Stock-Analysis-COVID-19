@@ -1,1 +1,1 @@
-# Stock-Analysis-1
+# Tech-Stock-Analysis
